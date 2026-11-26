@@ -2,7 +2,7 @@
 Mini pet virtual, scris doar în Python (NiceGUI).
 
     pip install -r requirements.txt
-    python app.py          # apoi deschide http://localhost:8080
+    python app.py          # apoi deschide http://localhost:8081
 
 - `/`       jocul (hrănește, spală, schimbă mood-ul, bare de stare)
 - `/widget` doar broscuța: ochii urmăresc cursorul, o poți mângâia, click = intri în joc
